@@ -159,17 +159,6 @@ Applies a Least-Squares optimization step to improve bounding box precision. :co
 - Lightweight AI-based pre-detection stage
 
 :contentReference[oaicite:10]{index=10}
-
----
-
-## 📸 Screenshots
-
-Add screenshots here:
-
-```markdown
-WhatsApp Image 2026-09-16 at 10.34.45 PM.jpeg
-```
-
 ---
 
 ## 👥 Team MECTRON
