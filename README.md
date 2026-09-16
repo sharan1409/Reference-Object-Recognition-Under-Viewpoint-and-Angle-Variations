@@ -160,7 +160,7 @@ Applies a Least-Squares optimization step to improve bounding box precision.
 
 - Dharun S
 - Harish J H
-- Sharan Raj G G (Teicho)
+- Sharan Raj G G 
 
 B.E. Mechatronics Engineering
 
