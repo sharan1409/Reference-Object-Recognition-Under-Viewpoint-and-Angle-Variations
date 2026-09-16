@@ -167,11 +167,7 @@ Applies a Least-Squares optimization step to improve bounding box precision. :co
 Add screenshots here:
 
 ```markdown
-![GUI](images/gui.png)
-
-![Object Detection](images/detection.png)
-
-![Industrial Part Recognition](images/output.png)
+WhatsApp Image 2026-09-16 at 10.34.45 PM.jpeg
 ```
 
 ---
