@@ -158,9 +158,9 @@ Applies a Least-Squares optimization step to improve bounding box precision.
 
 ## 👥 Team MECTRON
 
+- Sharan Raj G G 
 - Dharun S
 - Harish J H
-- Sharan Raj G G 
 
 B.E. Mechatronics Engineering
 
@@ -168,4 +168,4 @@ B.E. Mechatronics Engineering
 
 ## 🏆 Hackathon
 
-Developed as part of the **alfaTKG AI-Driven Intelligent Industrial Application for Management and Manufacturing Solutions Hackathon 2025–26**. :contentReference[oaicite:12]{index=12}
+Developed as part of the **alfaTKG AI-Driven Intelligent Industrial Application for Management and Manufacturing Solutions Hackathon 2025–26**.
