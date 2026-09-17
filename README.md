@@ -11,7 +11,7 @@ In manufacturing environments, accurately detecting metallic industrial parts is
 - 📏 Scale variations caused by camera zoom and distance changes
 - 📐 Perspective distortions from tilted viewpoints
 
-These factors significantly reduce the reliability of traditional object recognition systems. :contentReference[oaicite:0]{index=0}
+These factors significantly reduce the reliability of traditional object recognition systems.
 
 ---
 
@@ -27,7 +27,7 @@ A desktop-based computer vision application that uses an **Adaptive Trust Logic*
 - Dynamic trust-based matching system
 - False positive rejection mechanism
 
-The system allows wider scaling for strong matches while applying stricter constraints to weak matches. :contentReference[oaicite:1]{index=1}
+The system allows wider scaling for strong matches while applying stricter constraints to weak matches.
 
 ---
 
@@ -64,7 +64,6 @@ The system allows wider scaling for strong matches while applying stricter const
 ### Numerical Computing
 - NumPy
 
-:contentReference[oaicite:2]{index=2}
 
 ---
 
